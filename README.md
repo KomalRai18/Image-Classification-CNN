@@ -1,5 +1,5 @@
 # Image-Classification-CNN
 This is an image classification project on Deep Learning. Using convolutional Neural Network, this project classifies two animals
 
-Supervisior:
+# Supervisior: Sir Anwar Ali Sathio Research Scholar and sr Faculty member BBSULK Sindh Pakistan
 https://github.com/Anwar-Ali-Sathio 
